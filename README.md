@@ -9,7 +9,7 @@ Firma SpaceX oferuje starty rakiety Falcon 9 w niezwykle konkurencyjnych cenach,
 ## Źródła Danych
 
 Projekt opiera się na zbiorach danych udostępnionych w przestrzeni dyskowej chmury IBM:
-* **Dane Część 1:** Ogólne informacje o lotach, masie ładunku, orbicie oraz miejscach startowych. [Link do pobrania pliku CSV](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_1.csv)[cite: 4]
+* **Dane Część 1:** Ogólne informacje o lotach, masie ładunku, orbicie oraz miejscach startowych. [Link do pobrania pliku CSV](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_1.csv)
 * **Dane Część 2 i 3:** Przeskalowane zmienne objaśniające (`X`) oraz zmienna docelowa (`Y` - Class). 
   * [Link do zmiennych objaśniających (X)](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_3.csv)
   * [Link do zmiennej docelowej (Y)](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_2.csv)
