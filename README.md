@@ -1,6 +1,6 @@
 # Przewidywanie Lądowania Pierwszego Stopnia Rakiety SpaceX Falcon 9
 
-Ten projekt został zrealizowany na potrzeby ukończenia kursu **IBM Data Science Professional Certificate**[cite: 4]. Celem jest przewidzenie, czy pierwszy stopień rakiety Falcon 9 wyląduje pomyślnie, co jest kluczowym czynnikiem w redukcji kosztów startów kosmicznych.
+Ten projekt został zrealizowany na potrzeby ukończenia kursu **IBM Data Science Professional Certificate**. Celem jest przewidzenie, czy pierwszy stopień rakiety Falcon 9 wyląduje pomyślnie, co jest kluczowym czynnikiem w redukcji kosztów startów kosmicznych.
 
 ## Opis Projektu
 
